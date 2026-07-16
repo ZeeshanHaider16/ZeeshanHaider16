@@ -1,1 +1,22 @@
 
+<svg width="1200" height="18" viewBox="0 0 1200 18" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f0c29" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00f5ff" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#7b61ff" stop-opacity="0.9"/>
+      <stop offset="80%" stop-color="#00f5ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0f0c29" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="dotGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00f5ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0" y="8" width="1200" height="2" fill="url(#lineGrad)"/>
+
+  <circle cy="9" r="6" fill="url(#dotGlow)">
+    <animate attributeName="cx" values="0;1200;0" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
