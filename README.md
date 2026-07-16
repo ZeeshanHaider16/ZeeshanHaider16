@@ -121,7 +121,7 @@ Real-time hand gesture recognition system capable of detecting predefined gestur
 
 **Tech Stack**
 
-**Tech Stack**
+
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -176,7 +176,6 @@ Machine Learning model for predicting patient mortality using clinical healthcar
 
 **Tech Stack**
 
-**Tech Stack**
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -205,7 +204,7 @@ Analyzed airline customer reviews and built predictive models to identify bookin
 
 **Tech Stack**
 
-**Tech Stack**
+
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
